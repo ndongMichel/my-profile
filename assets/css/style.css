@@ -1,0 +1,26 @@
+*
+{
+	color: white;
+	opacity: 1;
+}
+
+div nav div ul li a:hover
+{
+	color: #FFD700;
+}
+
+.main-section a
+{
+	text-decoration: none;
+}
+
+p a
+{
+	color: #FFD700;
+}
+
+p a:hover
+{
+	color: #FFD700;
+	font-weight: bolder;
+}
